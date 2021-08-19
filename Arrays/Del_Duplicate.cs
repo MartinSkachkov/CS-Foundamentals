@@ -27,7 +27,7 @@ class Program
                 }
             }
 
-            Console.Write("Elements after insertion:");
+            Console.Write("Elements after deletion:");
             for (int i = 0; i < length; i++)
             {
                 Console.Write(arr[i] +", ");
